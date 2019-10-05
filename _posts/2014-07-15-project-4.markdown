@@ -1,0 +1,16 @@
+---
+title: Black
+subtitle: PLA plastic
+layout: default
+modal-id: 4
+date: 2014-07-15
+img: black_in_hand.jpg
+thumbnail: thumb.black-2.jpg
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+price: $25 USD
+description: Pattern 99 Parabolic
+
+---

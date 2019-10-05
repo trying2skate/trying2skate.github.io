@@ -1,0 +1,16 @@
+---
+title: Steel
+subtitle: PLA plastic
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: steel.jpg
+thumbnail: thumb.steel.jpg
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+price: $25 USD
+description: Pattern 99 Parabolic
+
+---

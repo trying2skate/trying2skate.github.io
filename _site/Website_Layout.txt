@@ -1,4 +1,0 @@
-Landing - product pictures, description, links
- |-> Product details - material, specs
- |-> Order form
- |-> About?

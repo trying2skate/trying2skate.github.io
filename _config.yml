@@ -1,27 +1,46 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+url: https://trying2skate.github.io
+baseurl: ""
 
 # Site settings
 title: trying2skate
 email: trying2skate@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Maker of miniature John Wilson Pattern 99 Parabolic Blade necklaces.
-#  Write an awesome description for your new site here. You can edit this
-#  line in _config.yml. It will appear in your document head meta (for
-#  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://trying2skate.gihub.io" # the base hostname & protocol for your site
-#twitter_username: jekyllrb
-github_username:  trying2skate
-instagram_username: trying2skate
+description: "Maker of miniature John Wilson Pattern 99 Parabolic Blade necklaces."
+
+
+# Team names, titles and social links
+people:
+- name: Jessica Nicosia
+  pic: 1
+  position: Lead Designer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+- name: Ben Wang
+  pic: 2
+  position: Lead Engineer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: instagram
+    url: https://www.instagram.com/trying2skate/
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 3481 Melrose Place
+  - line: Beverly Hills, CA 90210
 
 # Build settings
 markdown: kramdown
-
-# Appearance
-theme: jekyll-theme-minimal
-
+permalink: pretty

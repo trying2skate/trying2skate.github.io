@@ -1,0 +1,16 @@
+---
+title: All Blades
+subtitle: Pattern 99 Parabolic
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: all_blades.jpg
+thumbnail: thumb.all_blades.jpg
+alt: image-alt
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+price: varies
+description: "Top to bottom: Ice, Silver, Steel, Black"
+
+---
