@@ -1,4 +1,5 @@
 <?php
+echo 'contact_me.php called!!!';
 // Check for empty fields
 if(empty($_POST['name'])  		||
    empty($_POST['email']) 		||
